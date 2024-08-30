@@ -35,8 +35,18 @@ Before starting this course, you should be familiar with the following Python co
 
 ### Setup
 
+Run the following commands to setup. 
+
 1. **Clone the Repository:**
 
    ```bash
    git clone https://github.com/vladbandurin/Python4DS.git
    cd https://github.com/vladbandurin/Python4DS.git
+   
+2. Install Required Packages:
+
+Install the necessary Python libraries listed in requirements.txt:
+
+```bash
+pip install -r requirements.txt
+```

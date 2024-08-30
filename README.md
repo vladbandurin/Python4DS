@@ -35,7 +35,7 @@ Before starting this course, you should be familiar with the following Python co
 
 ### Setup
 
-Run the following commands to setup. 
+Run the following commands in terminal to setup. 
 
 1. **Clone the Repository:**
 

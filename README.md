@@ -29,7 +29,6 @@ Before starting this course, you should be familiar with the following Python co
 
 ## Repository Structure
 
-- `setup/`: Instructions and files for setting up your development environment.
 - `data/`: Placeholder for datasets (raw, processed, and external).
 - `notebooks/`: Jupyter notebooks for each week's code examples and practical labs.
 - `src/`: Source code for reusable functions and modules.
